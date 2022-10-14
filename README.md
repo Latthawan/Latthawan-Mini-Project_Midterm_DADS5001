@@ -26,7 +26,7 @@ https://data.go.th/dataset/proviceandregionthailand
 
 จากการตรวจสอบพบว่าในไฟล์ area-flood มีชื่อจังหวัดที่เขียนรูปแบบไม่เหมือนกันอยู่ ดังนั้นจึงใช้รหัสจังหวัดเป็น key ในการ join ข้อมูลระหว่างไฟล์เพื่อนำชื่อจังหวัดจากไฟล์ Province-Master ไปใช้ รวมไปถึงนำข้อมูลภูมิภาคมาใช้ด้วย
 
-![image](https://user-images.githubusercontent.com/105144684/195760050-dcdba04c-059c-4872-9fc6-dab7f2c81b94.png)
+![image](https://user-images.githubusercontent.com/105144684/195764282-4d38452f-d0d7-48d6-a635-23b32770cd88.png)
 
 เนื่องจากต้องการนำข้อมูลจากไฟล์ spatial-rain และ area-flood มารวมกัน เเต่ทั้ง 2 นี้มีรายเอียดลงถึงรายเดือน จึงต้องทำการสร้าง Key โดยการนำรหัสจังหวัด-เดือน เพื่อใช้ในการ join ข้อมูล
 
@@ -38,7 +38,37 @@ https://data.go.th/dataset/proviceandregionthailand
 ![image](https://user-images.githubusercontent.com/105144684/195762170-277992d1-3ce9-47c6-9aa2-8f2c61a54143.png)
 
 Rename ชื่อ column ให้เป็นภาษาไทยเพื่อให้เข้ากับ dataset เเละอ่านเข้าใจง่ายขึ้น 
+
 ![image](https://user-images.githubusercontent.com/105144684/195762223-a55caa13-b01d-4630-a6c8-706d094e3087.png)
+
+นำข้อมูลมาจัดทำกราฟ เพื่อแสดงเทรนของปริมารน้ำฝนในประเทศไทย ตามเดือนของปี 2018-2022
+![image](https://user-images.githubusercontent.com/105144684/195765066-295991d6-7c94-4c7a-befd-e547febac213.png)
+![output_20_0](https://user-images.githubusercontent.com/105144684/195765174-92066c39-9619-4ce5-98bb-3db1e8d4ed1d.png)
+
+ดูรายละเอียดตามปี
+![image](https://user-images.githubusercontent.com/105144684/195766464-4a3edbab-4f53-40f1-b9c9-874fe2e05a7a.png)
+![output_22_0](https://user-images.githubusercontent.com/105144684/195766429-8780cc92-cbf6-4e24-bdb6-f5d8a7041dd2.png)
+
+นำข้อมูลมาจัดทำกราฟ เพื่อแสดงเทรนของปริมารน้ำฝนในประเทศไทย ตามภูมิภาคของปี 2018-2022
+![image](https://user-images.githubusercontent.com/105144684/195766533-748d9747-8dc1-40da-9b4c-e7a1d0e42a21.png)
+![output_23_0](https://user-images.githubusercontent.com/105144684/195766562-650a5d7c-2b4f-4ef4-b40a-44bdcdf04990.png)
+![image](https://user-images.githubusercontent.com/105144684/195766590-16ac41c4-45b9-4ce5-bce8-9842abf39546.png)
+
+ดูรายละเอียดตามปี
+![output_24_0](https://user-images.githubusercontent.com/105144684/195766612-8476971e-7188-4257-9a6b-c40be0799a0f.png)
+
+กรองข้อมูลเฉพาะปี 2022 
+
+![image](https://user-images.githubusercontent.com/105144684/195768421-a39ad1f2-a17e-4f9e-aae6-9c5227e3079f.png)
+![image](https://user-images.githubusercontent.com/105144684/195768498-3e25de02-96d6-478f-9f1a-e5151f7eb452.png)
+
+นำข้อมูลมาจัดทำกราฟ เพื่อแสดงเทรนของปริมารน้ำฝนในประเทศไทย ตามภูมิภาคของปี 2022
+
+![output_26_0](https://user-images.githubusercontent.com/105144684/195768520-c98da16a-621b-48bd-952b-d31ebb31c920.png)
+
+
+
+
 
 
 
