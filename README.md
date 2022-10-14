@@ -132,8 +132,9 @@ Rename ชื่อ column ให้เป็นภาษาไทยเพื�
 จะพบว่า จังหวัดที่มีจำนวนตำบล ที่มีความเสี่ยงสูงที่จะเกิดน้ำท่วมมากที่สุด คือ จังหวัดสุโขทัย 
 
 ![image](https://user-images.githubusercontent.com/105144684/195773584-ddeba6b7-b59a-4b54-a230-d923237f96cc.png)
-![image](https://user-images.githubusercontent.com/105144684/195773894-6dbe615e-d1f6-4ea3-91b7-4e4019ab228a.png)
-![output_34_0](https://user-images.githubusercontent.com/105144684/195773917-d4e68570-afe7-4e40-afc1-bce4b00be1a5.png)
+![image](https://user-images.githubusercontent.com/105144684/195884348-1e781d50-3d21-468b-9dc1-aa193938e621.png)
+![output_34_0](https://user-images.githubusercontent.com/105144684/195884488-03f0c2fc-81a0-44fe-afcd-75ec2e3bb076.png)
+
 
 # Conclusion
 
