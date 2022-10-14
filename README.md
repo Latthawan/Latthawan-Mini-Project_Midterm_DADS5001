@@ -9,7 +9,8 @@
 
 รหัสนักศึกษา ุ6420222015
 
-วิชา DADS5001 เครื่องมือและการเขียนโปรแกรมสําหรับการวิเคราะห์ข้อมูลและวิทยาการข้อมูล (Data Analytics and Data Science Tools and Programming)
+วิชา DADS5001 เครื่องมือและการเขียนโปรแกรมสําหรับการวิเคราะห์ข้อมูลและวิทยาการข้อมูล 
+(Data Analytics and Data Science Tools and Programming)
 
 # Dataset
 
