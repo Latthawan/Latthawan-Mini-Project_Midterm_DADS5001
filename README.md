@@ -88,8 +88,16 @@ Rename ชื่อ column ให้เป็นภาษาไทยเพื�
 ![image](https://user-images.githubusercontent.com/105144684/195771383-9dd9b695-7569-4c03-8222-5d2a91ea551d.png)
 ![output_30_0](https://user-images.githubusercontent.com/105144684/195771711-fecd7bba-bc02-4338-afd7-4aa2301990ea.png)
 
+นำข้อมูลมาจัดทำกราฟ แสดงจำนวนตำบล ตามประเภทความเสี่ยง เพื่อดูสัดส่วนของความเสี่ยง
 
+![image](https://user-images.githubusercontent.com/105144684/195772798-444e27a5-fbc3-48cb-9d89-96d4b7b8fc92.png)
+![image](https://user-images.githubusercontent.com/105144684/195773461-bef799aa-e0af-4af6-9c45-a22bc4c9ee75.png)
+![output_32_1](https://user-images.githubusercontent.com/105144684/195773480-4ab3cab8-44c9-49fe-915c-8dda6cbdae4a.png)
 
+จากนั้นกรองข้อมูลเฉพาะ ประเภทความเสี่ยงสูง  เพื่อนำมาดูว่าจังหวัดที่มีตำบล ความเสี่ยงสูงที่จะเกิดน้ำท่วมมากที่สุด
+![image](https://user-images.githubusercontent.com/105144684/195773584-ddeba6b7-b59a-4b54-a230-d923237f96cc.png)
+![image](https://user-images.githubusercontent.com/105144684/195773894-6dbe615e-d1f6-4ea3-91b7-4e4019ab228a.png)
+![output_34_0](https://user-images.githubusercontent.com/105144684/195773917-d4e68570-afe7-4e40-afc1-bce4b00be1a5.png)
 
 
 
